@@ -1,0 +1,88 @@
+.fixed{
+	width: 100%;
+	position: fixed;
+	z-index: 999;
+}
+
+.container-produk .mix{
+	display: none;
+}
+
+.harga{
+	display: inline-block;
+}
+
+.judul-barang b{
+	color: #1F9EA3
+}
+
+.intro-row {
+    margin-top: 30px;
+}
+
+.card-panel p {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 30px;
+    color: #666666;
+}
+
+
+
+.featured-img {
+    margin-top: 20px;
+}
+
+
+.fb-bg {
+background-color: #3B5998;
+}
+.tw-bg {
+background-color: #55ACEE;
+}
+.gplus-bg {
+background-color: #DD4B39;
+}
+
+footer.page-footer a {
+line-height: 25px;
+}
+
+footer.page-footer a {
+color: #fff;
+font-size: 15px;
+}
+
+
+/*uuu*/
+
+.top{
+	height: 5px;
+	background-color: #FFEE58
+
+}
+
+.logo{
+	margin: 0 auto;
+	cursor: pointer;
+	width: 60%;
+	
+}
+
+.logo:hover{
+	transition:box-shadow 0.25s;
+	box-shadow:0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3{
+	color:#FDD835
+}
+
+#mid{
+	background-color: #FDD835;
+	padding-top: 30px
+}
+

@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /stunning-dollop/webpulsa/
+RewriteRule ^more([0-9]+)-(.*)\.html$ more.php?id=$1
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /stunning-dollop/webpulsa/index.php [L]
